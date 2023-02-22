@@ -1,6 +1,6 @@
 <template>
-  <div class="w-4/5 mx-auto">
-    <div class="text-center text-6xl mb-5 uppercase font-bold">about me</div>
+  <div class="w-4/5 mx-auto mb-10">
+    <div class="text-center text-6xl my-5 uppercase font-bold">about me</div>
     <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4">
       <!-- trái -->
       <div class="">
